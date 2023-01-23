@@ -1,2 +1,2 @@
 # proyecto-git
-Este es mi prime rproyecto con Git.
+Este es mi primer proyecto con Git.
